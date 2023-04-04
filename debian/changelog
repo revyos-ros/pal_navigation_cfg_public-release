@@ -1,0 +1,8 @@
+ros-humble-pal-navigation-cfg (3.0.1-1jammy) jammy; urgency=high
+
+  * init ROS2 migration
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Tue, 04 Apr 2023 00:00:00 -0000
+
+
