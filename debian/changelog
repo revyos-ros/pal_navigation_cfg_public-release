@@ -1,0 +1,13 @@
+ros-humble-pal-navigation-cfg-bringup (3.0.1-1jammy) jammy; urgency=high
+
+  * Merge branch 'fix/unify-nav' into 'humble-devel'
+    unify nav launch files
+    See merge request navigation/pal_navigation_cfg_public!45
+  * unify nav launch files
+  * added default parameters and launch files
+  * init ROS2 migration
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Tue, 04 Apr 2023 00:00:00 -0000
+
+
