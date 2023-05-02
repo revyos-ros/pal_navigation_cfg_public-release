@@ -2,6 +2,9 @@
 Changelog for package pal_navigation_cfg_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.4 (2023-05-02)
+------------------
+
 3.0.3 (2023-04-25)
 ------------------
 * Merge branch 'fix/missing_dependency' into 'humble-devel'
