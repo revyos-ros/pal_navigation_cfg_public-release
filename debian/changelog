@@ -1,0 +1,33 @@
+ros-humble-pal-navigation-cfg-bringup (3.0.3-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'fix/missing_dependency' into 'humble-devel'
+    Add missing dependency nav2_bringup
+    See merge request navigation/pal_navigation_cfg_public!47
+  * add missing dependency nav2_bringup
+  * Contributors: Noel Jimenez, antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Tue, 25 Apr 2023 00:00:00 -0000
+
+ros-humble-pal-navigation-cfg-bringup (3.0.2-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'license' into 'humble-devel'
+    Add license
+    See merge request navigation/pal_navigation_cfg_public!46
+  * Update license
+  * Contributors: Noel Jimenez, antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Wed, 05 Apr 2023 00:00:00 -0000
+
+ros-humble-pal-navigation-cfg-bringup (3.0.1-1bullseye) bullseye; urgency=high
+
+  * Merge branch 'fix/unify-nav' into 'humble-devel'
+    unify nav launch files
+    See merge request navigation/pal_navigation_cfg_public!45
+  * unify nav launch files
+  * added default parameters and launch files
+  * init ROS2 migration
+  * Contributors: antoniobrandi
+
+ -- Antonio Brandi <antonio.brandi@pal-robotics.com>  Tue, 04 Apr 2023 00:00:00 -0000
+
+
