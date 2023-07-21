@@ -1,0 +1,12 @@
+Source: ros-humble-pal-navigation-cfg-bringup
+Section: misc
+Priority: optional
+Maintainer: Antonio Brandi <antonio.brandi@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake-auto, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-pal-navigation-cfg-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-launch-pal, ros-humble-nav2-bringup, ros-humble-pal-navigation-cfg-params, ros-humble-ros2launch, ros-humble-ros-workspace
+Description: Central storage of PAL Navigation launch files
