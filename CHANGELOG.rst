@@ -2,6 +2,13 @@
 Changelog for package pal_navigation_cfg_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.5 (2023-07-21)
+------------------
+* Fix license
+* Remove pal flags dependency
+* compatibility with monitor
+* Contributors: Noel Jimenez, antoniobrandi
+
 3.0.4 (2023-05-02)
 ------------------
 
