@@ -2,6 +2,12 @@
 Changelog for package pal_navigation_cfg_params
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.5 (2023-07-21)
+------------------
+* Remove pal flags dependency
+* compatibility with monitor
+* Contributors: Noel Jimenez, antoniobrandi
+
 3.0.4 (2023-05-02)
 ------------------
 * Merge branch 'fix/add-odom-topic' into 'humble-devel'
