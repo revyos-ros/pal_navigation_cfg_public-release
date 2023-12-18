@@ -2,6 +2,9 @@
 Changelog for package pal_navigation_cfg_params
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.6 (2023-11-14)
+------------------
+
 3.0.5 (2023-07-21)
 ------------------
 * Remove pal flags dependency
