@@ -2,6 +2,11 @@
 Changelog for package pal_navigation_cfg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.0.6 (2023-11-14)
+------------------
+* Add website tag
+* Contributors: Noel Jimenez
+
 3.0.5 (2023-07-21)
 ------------------
 
